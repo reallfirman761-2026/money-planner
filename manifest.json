@@ -1,0 +1,9 @@
+{
+  "name": "Money Planner",
+  "short_name": "Money Planner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#1F4E78",
+  "icons": []
+}
